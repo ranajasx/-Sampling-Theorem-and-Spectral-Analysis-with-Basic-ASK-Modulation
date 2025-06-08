@@ -34,5 +34,3 @@ You will visually observe:
 -   The distinct frequency components of signals clearly resolved by the FFT.
 -   The spectral characteristics of a simple modulated signal (ASK), showing how modulation shifts and spreads the signal's energy in frequency.
 
----
-*Developed by [Your Name] | [Current Date: e.g., June 8, 2025] | [Optional: Context, e.g., "for SPWiCOM Lab Internship Application"]*
