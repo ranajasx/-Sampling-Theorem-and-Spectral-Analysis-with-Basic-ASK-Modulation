@@ -27,7 +27,6 @@ This project showcases:
     * A figure illustrating a **basic ASK modulated signal** and its spectrum.
 
 ## Expected Results
-You will visually observe:
 -   The importance of sampling rate for accurate signal representation and reconstruction.
 -   How aliasing distorts the signal when the sampling rate is insufficient.
 -   The distinct frequency components of signals clearly resolved by the FFT.
