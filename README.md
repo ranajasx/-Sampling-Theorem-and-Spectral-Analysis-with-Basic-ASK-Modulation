@@ -21,8 +21,7 @@ This project showcases:
 -   **Basic Amplitude Shift Keying (ASK) Modulation:** A simple digital modulation technique, demonstrating how binary data can modulate a carrier signal.
 -   **ASK Signal Spectrum:** Analyzing the frequency characteristics of an ASK modulated signal, illustrating bandwidth occupation.
 
-    ```
-4.  **Output:** The script will execute and automatically generate **three separate figure windows** (or display them in MATLAB Online's "Figures" panel):
+4.  **Output:** The script will execute and automatically generate **three separate figure windows:** 
     * A figure demonstrating the **Sampling Theorem** with examples of sampling above and below the Nyquist rate.
     * A figure showing a time-domain signal and its corresponding **frequency spectrum** obtained via FFT.
     * A figure illustrating a **basic ASK modulated signal** and its spectrum.
